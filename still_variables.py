@@ -1,4 +1,4 @@
-name = Natalie
+name = "Natalie"
 graduate = 2027
 
 # Output using f-strings
