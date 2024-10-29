@@ -1,1 +1,5 @@
-print("My name is Natalie Wong and I'll graduate in 2027")
+name = Natalie
+graduate = 2027
+
+# Output using f-strings
+print(f"My name is "name" and I'll graduate in "graduate". ")
